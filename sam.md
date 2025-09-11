@@ -6,4 +6,5 @@ working C#
 3. MongoDb
 4. HTML
 5. CSS
+6. Tailwindcss
 
